@@ -1,0 +1,18 @@
+.nav {
+  background-color: #f5580f;
+}
+
+.nav a {
+  text-decoration: none;
+  color: white;
+}
+
+.nav a:hover {
+  cursor: pointer;
+  color: black;
+}
+
+.card {
+  background-color: #ffd900;
+}
+/*# sourceMappingURL=index.css.map */
